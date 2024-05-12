@@ -1,0 +1,11 @@
+.tournament-card {
+  width:50vw;
+  max-width: 700px;
+  display: flex;
+  align-items: center;
+  background-color: var(--color-whiter);
+}
+
+.tournament-card-content {
+  width:100%;
+}

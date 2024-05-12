@@ -1,0 +1,16 @@
+:root {
+    --color-purple: rgb(143, 47, 221);
+    --color-purple-2: #612891;
+    --color-purple-light: #a971d8;
+    --color-purple-background : #f6f0fa;
+    --color-purple-hover: #e6daed;
+    --color-purple-dark: #e2cbf1;
+    --color-white: #ffffff;
+    --color-whiter: #f9f9f9;
+    --color-light-gray: #c7c7c7;
+    --color-gray: #808080;
+    --color-orange: #ffa500;
+    --color-green: #0c7b2d;
+    --color-red: #bb3838;
+    --color-star-gold: #FFD700;
+}

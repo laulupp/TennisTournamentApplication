@@ -1,0 +1,10 @@
+@import url('../globals.css');
+
+.text-box{
+    margin-top: 40vh;
+    margin-left: 35vw;
+    margin-right: auto;
+    font-size: 35px;
+    color: var(--color-purple);
+    font-weight: bold;
+}

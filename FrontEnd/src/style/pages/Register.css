@@ -1,0 +1,27 @@
+@import url('../globals.css');
+
+.app {
+    display: flex;
+    height: 100vh;
+    background-color: var(--color-whiter);
+}
+
+.columns {
+    display: flex;
+    flex-grow: 1;
+    overflow: auto;
+    margin-left: 240px;
+}
+
+.error-message {
+    text-align: center;
+    color: var(--color-red);
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+  }
+  

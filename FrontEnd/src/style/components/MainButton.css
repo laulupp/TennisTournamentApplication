@@ -1,0 +1,7 @@
+@import url('../globals.css');
+
+button.formButton {
+    background-color: var(--color-purple) !important;
+    margin: 20px 0px 20px 0px;
+    color: var(--color-white) !important;
+}

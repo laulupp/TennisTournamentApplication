@@ -1,0 +1,47 @@
+@import url('../globals.css');
+
+.box-style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.formTitle {
+    font-weight: bold;
+    text-align: center;
+    color: var(--color-purple);
+}
+
+.MuiLink-root {
+    color: var(--color-purple) !important;
+    margin-top: 1em;
+    text-align: center;
+    display: block;
+
+    &::after {
+        background-color: var(--color-purple) !important;
+    }
+}
+
+.formLink {
+    color: var(--color-purple);
+    margin-top: 1em;
+    text-align: center;
+    display: block;
+    cursor: pointer;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+.MuiButtonBase-root:active {
+    background-color: var(--color-light-gray);
+}

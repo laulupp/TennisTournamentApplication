@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e
+
+psql -v ON_ERROR_STOP=1 -U "postgres" postgres <<-EOSQL
+CREATE USER "$POSTGRES_USER" WITH PASSWORD '$POSTGRES_PASSWORD';
+CREATE DATABASE "$POSTGRES_DB" OWNER "$POSTGRES_USER";
+EOSQL
+
+psql -v ON_ERROR_STOP=1 -U "postgres" -d "$POSTGRES_DB" <<-EOSQL
+CREATE SCHEMA "$DB_SCHEMA" AUTHORIZATION "$POSTGRES_USER";
+EOSQL
+
+echo "User '$POSTGRES_USER', database '$POSTGRES_DB', and schema '$DB_SCHEMA' have been created."

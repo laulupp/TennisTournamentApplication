@@ -1,0 +1,21 @@
+@import url('../globals.css');
+
+.formInput {
+    margin-bottom: 1em;
+}
+
+.formInput .MuiOutlinedInput-root {
+
+    &.Mui-focused .MuiOutlinedInput-notchedOutline,
+    &:hover .MuiOutlinedInput-notchedOutline {
+        border-color: var(--color-purple) !important;
+    }
+}
+
+.formInput .MuiInputLabel-outlined.Mui-focused {
+    color: var(--color-purple) !important;
+}
+
+.formInput .MuiOutlinedInput-input:focus {
+    color: var(--color-purple) !important;
+}

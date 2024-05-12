@@ -1,0 +1,911 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TennisTournament\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\tournamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\attributes\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\attributes\\dategreaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\attributes\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\attributes\\permissionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\tournamentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\tournamentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\itournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\tokenservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\tokenservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\passwordencryptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\passwordencryptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\matchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\matchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\passwordencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\passwordencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\ipasswordencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\ipasswordencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\matchdataformattertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\matchdataformattertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\imatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\imatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|e:\\tennistournament\\backend\\backendunittests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2C918C-CEED-482F-877B-C5BC3F4F7826}|BackendUnitTests\\BackendUnitTests.csproj|solutionrelative:backendunittests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\txtmatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\txtmatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\csvmatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\csvmatchdataformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\controllers\\tournamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\middleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\profiles\\tournamentparticipantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\profiles\\tournamentparticipantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\tournamentparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\tournamentparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\tournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\models\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\models\\tournamentparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\interfaces\\itournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\interfaces\\itournamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\profiles\\matchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\profiles\\matchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|e:\\tennistournament\\backend\\backend\\persistence\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B95AE6-4AA6-492F-AD59-EE7B2F57F43F}|Backend\\Backend.csproj|solutionrelative:backend\\persistence\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateGreaterThanAttribute.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Attributes\\DateGreaterThanAttribute.cs",
+              "RelativeDocumentMoniker": "Backend\\Attributes\\DateGreaterThanAttribute.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Attributes\\DateGreaterThanAttribute.cs",
+              "RelativeToolTip": "Backend\\Attributes\\DateGreaterThanAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:21:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\UserServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\UserServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\UserServiceTests.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAMwEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:01:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatchServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\MatchServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\MatchServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\MatchServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\MatchServiceTests.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAIAwwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:19:11.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPasswordEncryptionService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IPasswordEncryptionService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IPasswordEncryptionService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IPasswordEncryptionService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IPasswordEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T22:04:15.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:11:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\TournamentService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\TournamentService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\TournamentService.cs",
+              "RelativeToolTip": "Backend\\Services\\TournamentService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:58:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:30:32.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionAttribute.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Attributes\\PermissionAttribute.cs",
+              "RelativeDocumentMoniker": "Backend\\Attributes\\PermissionAttribute.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Attributes\\PermissionAttribute.cs",
+              "RelativeToolTip": "Backend\\Attributes\\PermissionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:10:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TournamentDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\TournamentDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\TournamentDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\TournamentDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\TournamentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:24:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordEncryptionServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\PasswordEncryptionServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\PasswordEncryptionServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\PasswordEncryptionServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\PasswordEncryptionServiceTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:31:35.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TournamentServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\TournamentServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\TournamentServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\TournamentServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\TournamentServiceTests.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwEoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:50:16.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\TokenServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\TokenServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\TokenServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\TokenServiceTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:33:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CsvMatchDataFormatter.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\CsvMatchDataFormatter.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\CsvMatchDataFormatter.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\CsvMatchDataFormatter.cs",
+              "RelativeToolTip": "Backend\\Services\\CsvMatchDataFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:41:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITournamentService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\ITournamentService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\ITournamentService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\ITournamentService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\ITournamentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:58:43.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMatchService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IMatchService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IMatchService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IMatchService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IMatchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:32:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMatchDataFormatter.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IMatchDataFormatter.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IMatchDataFormatter.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IMatchDataFormatter.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IMatchDataFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:40:31.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\TokenService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\TokenService.cs",
+              "RelativeToolTip": "Backend\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:11:32.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\AuthService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Backend\\Services\\AuthService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:04:32.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\EmailService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "Backend\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:37:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordEncryptionService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\PasswordEncryptionService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\PasswordEncryptionService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\PasswordEncryptionService.cs",
+              "RelativeToolTip": "Backend\\Services\\PasswordEncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:21:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\AuthServiceTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\AuthServiceTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\AuthServiceTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwHAAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:57:43.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchDataFormatterTests.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\BackendUnitTests\\MatchDataFormatterTests.cs",
+              "RelativeDocumentMoniker": "BackendUnitTests\\MatchDataFormatterTests.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\BackendUnitTests\\MatchDataFormatterTests.cs",
+              "RelativeToolTip": "BackendUnitTests\\MatchDataFormatterTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:16:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:46:15.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:29:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TxtMatchDataFormatter.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Services\\TxtMatchDataFormatter.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\TxtMatchDataFormatter.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Services\\TxtMatchDataFormatter.cs",
+              "RelativeToolTip": "Backend\\Services\\TxtMatchDataFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:41:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Controllers\\MatchController.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "Backend\\Api\\Controllers\\MatchController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:55:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:27:58.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Middleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Backend\\Middleware\\AuthMiddleware.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Middleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "Backend\\Middleware\\AuthMiddleware.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAtwEQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:43:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\UserDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\UserDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:19:15.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TournamentController.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\TournamentController.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Controllers\\TournamentController.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\TournamentController.cs",
+              "RelativeToolTip": "Backend\\Api\\Controllers\\TournamentController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwIkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:40:19.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Match.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Models\\Match.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\Match.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:41:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Backend\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Backend\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:59:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:55:54.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TournamentParticipantProfile.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\TournamentParticipantProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Profiles\\TournamentParticipantProfile.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\TournamentParticipantProfile.cs",
+              "RelativeToolTip": "Backend\\Profiles\\TournamentParticipantProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:42:16.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TournamentParticipantDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\TournamentParticipantDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\TournamentParticipantDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\TournamentParticipantDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\TournamentParticipantDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:27:16.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Extensions\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "Backend\\Extensions\\StartupExtensions.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Extensions\\StartupExtensions.cs",
+              "RelativeToolTip": "Backend\\Extensions\\StartupExtensions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwC0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:58:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Constants.cs",
+              "RelativeDocumentMoniker": "Backend\\Constants.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Constants.cs",
+              "RelativeToolTip": "Backend\\Constants.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:09:59.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:39:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TournamentRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\TournamentRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\TournamentRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\TournamentRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\TournamentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:37:05.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TournamentParticipant.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\TournamentParticipant.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Models\\TournamentParticipant.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\TournamentParticipant.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Models\\TournamentParticipant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:44:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "Backend\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "Backend\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwv0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:28:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\MatchRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\MatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:21:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:21:56.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backend\\Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:13:36.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ITournamentRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\Interfaces\\ITournamentRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\Interfaces\\ITournamentRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\Interfaces\\ITournamentRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\Interfaces\\ITournamentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:25:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:08:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:22:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:06:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Profiles\\UserProfile.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "Backend\\Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:16:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\ChangePasswordDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\ChangePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:25:04.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Models\\User.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\User.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:58:17.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MatchProfile.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\MatchProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Profiles\\MatchProfile.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Profiles\\MatchProfile.cs",
+              "RelativeToolTip": "Backend\\Profiles\\MatchProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:43:47.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\AuthResponseDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\AuthResponseDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\AuthResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:16:40.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Api\\Models\\RegisterDTO.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Api\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "Backend\\Api\\Models\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:04:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Backend\\Persistence\\Models\\Role.cs",
+              "ToolTip": "E:\\TennisTournament\\Backend\\Backend\\Persistence\\Models\\Role.cs",
+              "RelativeToolTip": "Backend\\Persistence\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:10:15.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
